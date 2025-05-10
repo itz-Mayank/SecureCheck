@@ -100,14 +100,12 @@ The main dashboard provides an overview of police logs, key metrics, and data vi
    - **Total Warnings**: Number of stops leading to warnings.
    - **Drug-Related Stops**: Number of stops where drugs were involved.
 
-   ![Key Metrics](images/images/2.png)
-
 ### 3. **Data Visualizations**
    - Interactive visualizations for better insights:
      - **Stops by Violation Type**: Bar chart showing the number of stops for each violation type.
      - **Driver Gender Distribution**: Pie chart showing the distribution of drivers by gender.
 
-   ![Violation Types](images/3.png)
+   ![Violation Types](images/2.png)
 
    ![Gender Distribution](images/7.png)
 
@@ -174,10 +172,3 @@ Feel free to fork the repository, create pull requests, and help improve this pr
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-
-
-![My Image](images/2.png)
-![My Image](images/3.png)
-![My Image](images/4.png)
-![My Image](images/5.png)
-![My Image](images/6.png)
