@@ -1,5 +1,4 @@
-# SecureCheck
-# Police Check Post Management System
+# SecureCheck: Police Check Post Management System
 
 This project aims to streamline vehicle monitoring at police check posts using a centralized SQL database and a Python-based dashboard. It automates real-time logging, identifies suspect vehicles, analyzes crime patterns, and enhances operational efficiency.
 
