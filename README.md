@@ -22,3 +22,33 @@ Python | Pandas | SQLAlchemy | PostgreSQL/MySQL | Streamlit
 - High data accuracy and uptime  
 - User engagement (dashboard usage)  
 - Effective violation detection rate  
+
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes.
+
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone https://github.com/itz-Mayank/SecureCheck
+
+# Step 2: Navigate to the project directory.
+cd SecureCheck
+
+# Step 3: Install the necessary dependencies.
+pip install streamlit pandas mysql numpy
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+streamlit run index.py
+```
+
+
+## Technologies used for this project :
+
+This project is built with:
+
+- Python
+- MySQL
+- Streamlit
