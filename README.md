@@ -45,4 +45,8 @@ streamlit run index.py
 
 ## How to use the Dashboard
 
-
+![My Image](images/1.png)
+![My Image](images/2.png)
+![My Image](images/3.png)
+![My Image](images/4.png)
+![My Image](images/5.png)
