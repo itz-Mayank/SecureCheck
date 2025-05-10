@@ -16,7 +16,6 @@ SecureCheck is a police dashboard built using Streamlit and integrated with MySQ
 - [Advanced Queries](#advanced-queries)
 - [Predictive Model](#predictive-model)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
