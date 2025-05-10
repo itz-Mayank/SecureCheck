@@ -24,8 +24,7 @@ Python | Pandas | SQLAlchemy | PostgreSQL/MySQL | Streamlit
 - Effective violation detection rate  
 
 
-**Use your preferred IDE**
-
+## Use your preferred IDE
 If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 Follow these steps:
@@ -45,10 +44,4 @@ streamlit run index.py
 ```
 
 
-## Technologies used for this project :
 
-This project is built with:
-
-- Python
-- MySQL
-- Streamlit
