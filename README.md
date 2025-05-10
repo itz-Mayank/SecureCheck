@@ -163,12 +163,9 @@ These queries help to extract detailed insights and analytics from the police lo
 
 ## Contributing
 
-Feel free to fork the repository, create pull requests, and help improve this project! Contributions are always welcome.
+Feel free to fork the repository, create pull requests, and help improve this project!
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
