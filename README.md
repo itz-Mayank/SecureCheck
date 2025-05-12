@@ -41,8 +41,6 @@ SecureCheck is a police dashboard built using Streamlit and integrated with MySQ
 
 ---
 
-## 
-Follow these steps:
 ## Installation
 
 To run this app locally, follow these steps:
