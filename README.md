@@ -55,7 +55,7 @@ To run this app locally, follow these steps:
 2. Install required dependencies:
 
     ```bash
-    pip install pip install streamlit pandas mysql numpy
+    pip install streamlit pandas mysql numpy
     ```
 
 3. Set up MySQL Database:
